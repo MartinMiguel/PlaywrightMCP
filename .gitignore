@@ -11,4 +11,3 @@ allure-results/
 .vscode/
 .github/agents/
 specs/
-package-lock.json
